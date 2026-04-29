@@ -2,5 +2,5 @@
   "owner": "sigstore",
   "name": "cosign-installer",
   "visibility": "internal",
-  "description": "Installs cosign and includes it in your path"
+  "description": "Cosign Github Action"
 }

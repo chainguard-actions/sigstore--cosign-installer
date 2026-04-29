@@ -1,6 +1,6 @@
 # sigstore/cosign-installer
 
-Installs cosign and includes it in your path
+Cosign Github Action
 
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/sigstore/cosign-installer](https://github.com/sigstore/cosign-installer).
 
