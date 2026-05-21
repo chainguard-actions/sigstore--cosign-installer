@@ -8,8 +8,8 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/cosign-installer/tree/v4.1.0) | — |
-| v4.1.1 | [`v4.1.1`](https://github.com/chainguard-actions/cosign-installer/tree/v4.1.1) | — |
+| v4.1.0 | [`v4.1.0`](https://github.com/chainguard-actions/sigstore--cosign-installer/tree/v4.1.0) | — |
+| v4.1.1 | [`v4.1.1`](https://github.com/chainguard-actions/sigstore--cosign-installer/tree/v4.1.1) | — |
 
 ## Privacy
 
